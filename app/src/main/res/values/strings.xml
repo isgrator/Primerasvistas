@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Primeras vistas</string>
+    <string name="guardar_autom_ticamente">Guardar automáticamente</string>
+    <string name="togglebutton">ToggleButton</string>
 </resources>
