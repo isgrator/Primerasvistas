@@ -3,4 +3,6 @@
     <string name="guardar_autom_ticamente">Guardar automáticamente</string>
     <string name="togglebutton">ToggleButton</string>
     <string name="name">Name</string>
+    <string name="hola">Hola</string>
+    <string name="textview">TextView</string>
 </resources>
