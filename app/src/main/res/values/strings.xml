@@ -18,4 +18,8 @@
     <string name="_8">8</string>
     <string name="_9">9</string>
     <string name="_0">0</string>
+    <string name="_plus">+</string>
+    <string name="_equal">=</string>
+    <string name="_c">C</string>
+    <string name="contraintlayout_design">Diseño con ConstraintLayout</string>
 </resources>
